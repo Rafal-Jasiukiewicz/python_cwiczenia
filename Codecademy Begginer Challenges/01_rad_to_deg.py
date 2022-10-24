@@ -8,7 +8,7 @@ def rad_to_deg(rad):
 
 rad_to_deg(1)
 
-# built-n function
+# built-in function
 
 math.degrees(1)
 
